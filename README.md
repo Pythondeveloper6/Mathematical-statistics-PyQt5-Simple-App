@@ -1,0 +1,1 @@
+# Mathematical-statistics-PyQt5-Simple-App
